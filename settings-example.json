@@ -1,0 +1,8 @@
+{ 
+	"basecrm" :	{ 	
+		"accessToken": "abcd....",
+		"debug": true, 
+		"timeout": 10000, 
+		"source": "something" 
+	}
+}
